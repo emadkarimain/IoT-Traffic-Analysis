@@ -89,9 +89,13 @@ Benchmarking revealed critical differences in broker architecture:
     python reports/generate_report.py
 
 ## 👨‍💻 Author
+
 Emad Karimian Shamsabadi
+
 . M.Sc. Telecommunication Engineering - Politecnico di Milano
+
 . Course: Lab Experience in Communication Networks
+
 . Focus: IoT Protocols, Network Analysis, Data Engineering
 
    
