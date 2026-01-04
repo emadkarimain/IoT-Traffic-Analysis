@@ -76,7 +76,7 @@ Benchmarking revealed critical differences in broker architecture:
     Pip package manager
 
 ### 1. Clone the Repository
-    git clone [https://github.com/YOUR_USERNAME/IoT-Traffic-Analysis.git](https://github.com/YOUR_USERNAME/IoT-Traffic-Analysis.git)
+    git clone https://github.com/emadkarimian/IoT-Traffic-Analysis.git
     cd IoT-Traffic-Analysis
 
 ### 2. Install Dependencies
